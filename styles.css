@@ -39,7 +39,6 @@ div {
   padding: 10px;
 }
 
-//colors for each line in the ingredients begin here
 
 #directions li:nth-child(1) {
   color: red;
@@ -89,10 +88,6 @@ div {
   color: pink;
 }
 
-//colors for each line of ingredients ends here
-
-
-//resonsive design starts here
 .responsive {
   width: 100%;
   max-width: 1000px;
